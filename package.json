@@ -1,0 +1,24 @@
+{
+  "name": "pi-formulariovalidation",
+  "version": "1.0.0",
+  "description": "Formulario com validação",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-ggarcia/PI-formularioValidation.git"
+  },
+  "author": "Ryan Fidelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-ggarcia/PI-formularioValidation/issues"
+  },
+  "homepage": "https://github.com/ryan-ggarcia/PI-formularioValidation#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
